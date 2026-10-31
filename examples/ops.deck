@@ -1,0 +1,5 @@
+ACTION 000001 s                    RUN_STEP             boot_system          1A 
+ACTION 000002 s                    SEND_MSG             all_clear            22 
+ACTION 000003 s                    MOVE_FILE            log_archive          ED 
+LEDGER 000004 h                    COMMIT               deadbeef             48 
+ABORT  000005 r                    WITH_REASON          drill done           AF 
