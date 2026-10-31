@@ -1,0 +1,11 @@
+{
+  "hooks": [
+    {
+      "name": "eval-on-write",
+      "description": "Run the deterministic eval suite after any file write to catch regressions immediately.",
+      "event": "file.write",
+      "paths": ["punchcard/**", "eval.py"],
+      "command": "python eval.py"
+    }
+  ]
+}
