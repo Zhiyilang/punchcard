@@ -1,0 +1,6 @@
+ACTION 000001 line1                SET_FIELD            100.00               06 
+ACTION 000002 line2                SET_FIELD            50.00                FC 
+ACTION 000003 line3                SET_FIELD            30.00                FC 
+ASSERT 000004 k                    EQUALS               total:180.00         51 
+ASSERT 000005 k                    NOT_EXCEEDS          tax:25.00            8F 
+LEDGER 000006 h                    COMMIT               abcdef01             E0 
