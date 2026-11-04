@@ -1,5 +1,11 @@
 # PUNCHCARD
 
+<!-- ORDER-CTA -->
+> **需要定制或代做？** 我承接 Excel 代做（¥50 起）/ 零依赖 Python 脚本定制（¥200 起）/ 影刀·UiBot 机器人（¥500 起）。
+> **先报价后付款、无预付款**，微信 / 支付宝结算，询价发 **2383844705@qq.com**（标题写「接单 + 需求类型」）。
+> 更多工具与报价见作品集：https://zhiyilang.github.io/
+
+
 > Your agent may only speak in 80 columns.
 
 PUNCHCARD forces an AI agent to act **only** by submitting 80-column punched
